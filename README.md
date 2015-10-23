@@ -22,3 +22,5 @@ https://github.com/twbs/bootstrap
 Principles of Writing Consistent, Idiomatic JavaScript
 https://github.com/rwaldron/idiomatic.js
 
+A web service that handles SMS and MMS
+https://www.twilio.com/mms
