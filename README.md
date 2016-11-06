@@ -1,7 +1,21 @@
 # Programing-Link-List
 A list of links to designs and programs I'm interested in.
 
-GitHub Projects:
+AR, VR, OpenCV, EMGU and other:
+
+- Computer Vision Subeddit - https://www.reddit.com/r/computervision/
+
+- Unity - https://store.unity.com/download?ref=personal
+
+- Blender - https://www.blender.org/download/
+
+- OpenCV - https://github.com/brakmic/OpenCV
+
+- EMGU - http://www.emgu.com/wiki/index.php/Main_Page
+
+
+
+Older List:
 AMP HTML source code, samples, and documentation.
 https://github.com/ampproject/amphtml
 
@@ -24,3 +38,5 @@ https://github.com/rwaldron/idiomatic.js
 
 A web service that handles SMS and MMS
 https://www.twilio.com/mms
+
+
