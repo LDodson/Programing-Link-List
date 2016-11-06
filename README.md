@@ -13,6 +13,8 @@ AR, VR, OpenCV, EMGU and other:
 
 - EMGU - http://www.emgu.com/wiki/index.php/Main_Page
 
+- A curated list of awesome computer vision resources - https://github.com/jbhuang0604/awesome-computer-vision
+
 
 
 Older List:
