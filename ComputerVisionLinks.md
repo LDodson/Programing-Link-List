@@ -1,7 +1,7 @@
 A curated list of interesting Computer Vision articles, videos, websites and projects.
 
 # Github Projects I found interesting or useful
-- https://github.com/HSOFEUP/HSO----VideoMount
+- https://github.com/HSOFEUP/HSO - VideoMount
 - https://github.com/ArunGopinathan/VideoControlUsingGestures
 - https://github.com/valkyriesavage/sauron
 - https://github.com/sanket19/NFS-Computer-Vision
