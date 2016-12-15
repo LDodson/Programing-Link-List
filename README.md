@@ -13,7 +13,9 @@ AR, VR, OpenCV, EMGU and other:
 
 - EMGU - http://www.emgu.com/wiki/index.php/Main_Page
 
-- A curated list of awesome computer vision resources - https://github.com/jbhuang0604/awesome-computer-vision
+- My curated list of awesome computer vision resources - https://github.com/LDodson/Programing-Link-List/ComputerVisionLinks.md
+
+- Someone else's curated list of awesome computer vision resources - https://github.com/jbhuang0604/awesome-computer-vision
 
 - The minds and original published articles behind face 2 face - http://www.graphics.stanford.edu/~niessner/projects.html
 
