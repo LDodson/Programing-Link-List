@@ -19,7 +19,10 @@ AR, VR, OpenCV, EMGU and other:
 
 - The minds and original published articles behind face 2 face - http://www.graphics.stanford.edu/~niessner/projects.html
 
+Other Programing Resources
 
+Links to coding style conventions and standards:
+- Awesome Guidelines - https://github.com/Kristories/awesome-guidelines
 
 Older List:
 
