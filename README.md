@@ -24,6 +24,11 @@ Other Programing Resources
 Links to coding style conventions and standards:
 - Awesome Guidelines - https://github.com/Kristories/awesome-guidelines
 
+CP Links:
+- websocket-sharp(used in the unity project) - https://github.com/sta/websocket-sharp
+
+- Unity Phone controller for HFT - https://github.com/greggman/hft-unity3d
+
 Older List:
 
 AMP HTML source code, samples, and documentation.
